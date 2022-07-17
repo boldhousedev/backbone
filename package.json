@@ -1,0 +1,23 @@
+{
+    "name": "backbone-bd",
+    "description": "-",
+    "version": "0.20.2-alpha",
+    "type": "module",
+    "browser": "src/backbone.js",
+    "main": "src/backbone.js",
+    "module": "src/backbone.js",
+    "jsnext:main": "src/backbone.js",
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+        "aes256": "^1.1.0",
+        "backbone": "^1.4.0",
+        "crypto-js": "^4.0.0",
+        "jquery": "^3.4.1",
+        "jquery-mask-plugin": "^1.14.16",
+        "nodejs-base64": "^2.0.0",
+        "terser": "^4.4",
+        "underscore-bd": "github:boldhousedev/underscore",
+        "validate-bd": "github:boldhousedev/validate"
+    }
+}
